@@ -72,7 +72,7 @@ django_ecommerce/
 1. **Clone repository**
 
 ```bash
-git clone https://github.com/<username>/django-ecommerce.git
+git clone https://github.com/I-PMAN/django-ecommerce.git
 cd django-ecommerce
 ```
 
@@ -201,8 +201,6 @@ Covers users, products, cart, checkout, payment, reviews, wishlist endpoints.
 - Admin dashboard with analytics
 
 - Real payment gateway integration
-
-integration
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
